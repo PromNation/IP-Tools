@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Info" />
+        <item
+            android:id="@+id/nav_ping"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Ping" />
+        <item
+            android:id="@+id/nav_devicefinder"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Device Finder" />
+
+        <item
+            android:id="@+id/nav_strength"
+            android:icon="@drawable/ic_network_wifi_black_24dp"
+            android:title="Wireless Strength" />
+
+        <item
+            android:id="@+id/nav_calc"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Subnet Calculator" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="Settings" />
+    </group>
+
+</menu>

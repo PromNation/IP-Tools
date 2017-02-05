@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TIP Tools</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1751783003229932/9575613189</string>
+    <string name="title_activity_ping">Ping</string>
+    <string name="title_activity_menu">Info</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_device__finder">Device_Finder</string>
+</resources>
